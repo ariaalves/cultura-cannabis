@@ -18,7 +18,7 @@ da Cannabis no tratamento do Transtorno do Espectro Autista.
 
 ## Documentação
 
-Você saber mais a fundo sobre nosso projeto acessando o PDF abaixo:
+Você pode saber mais a fundo sobre nosso projeto acessando o PDF abaixo:
 
 [Documentação](https://drive.google.com/file/d/13SUlH9nYUvDSCXXJ_6rSeCnO8vQgaEcX/view?usp=sharing)
 
